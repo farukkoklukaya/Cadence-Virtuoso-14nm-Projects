@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      work
 HostName                       work-eda
-ProcessIdentifier              3424
-ProcessCreationTime_UTC        1762508037
-ProcessCreationTime_Readable   Fri Nov  7 17:33:57 2025 CST
+ProcessIdentifier              5921
+ProcessCreationTime_UTC        1762964171
+ProcessCreationTime_Readable   Thu Nov 13 00:16:11 2025 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/work/PTM_14nm_FKK/EXOR2/schematic/sch.oa.cdslck
-TimeEditLocked                 Fri Nov  7 17:42:40 2025 CST
+FilePathUsedToEditLock         /home/work/PTM_14nm_FKK/FULL_ADDER/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Thu Nov 13 00:16:41 2025 CST
